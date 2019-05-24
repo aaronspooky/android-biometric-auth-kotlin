@@ -78,7 +78,7 @@
                         android:text="Button"
                         android:textAlignment="center"
                         android:textAllCaps="true" android:layout_marginTop="20dp"
-                        android:textColor="#008577"/>
+                        android:textColor="#008577" android:background="@android:color/transparent"/>
             </LinearLayout>
         </LinearLayout>
     </android.support.v7.widget.CardView>
