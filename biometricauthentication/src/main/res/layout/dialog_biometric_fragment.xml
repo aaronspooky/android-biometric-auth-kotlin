@@ -71,7 +71,7 @@
 
                 <Button
                         android:id="@+id/fragment_biometric_fragment_dialog_btn_negative"
-                        android:background="@android:color/transparent"
+                        style="@style/Widget.AppCompat.Button.Borderless"
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
